@@ -31,13 +31,14 @@
    - You’ll be prompted to select `start_here.html`, and the app will locate the correct files automatically.
   
 ## Tutorial
-1. Make sure you have ready your insatgram data. (Locate the start_here.html)
-2. Press Upload Followers Data and select start_here.html
-3. Same thing for the following button
-4. Who doesn't Follow you Back, Who you don't Follow Back, Everyone: Makes a list based on your selection
-5. Check the people you want to unfollow
-6. Press the Log In button AND MANUALLY log in to your account
-7. Press the unfollow button and let the magic happen. (It will take a few seconds per follower)
+1. Download Ghost Check From the RELEASES tab
+2. Make sure you have ready your insatgram data. (Locate the start_here.html)
+3. Press Upload Followers Data and select start_here.html
+4. Same thing for the following button
+5. Who doesn't Follow you Back, Who you don't Follow Back, Everyone: Makes a list based on your selection
+6. Check the people you want to unfollow
+7. Press the Log In button AND MANUALLY log in to your account
+8. Press the unfollow button and let the magic happen. (It will take a few seconds per follower)
 ![image](https://github.com/user-attachments/assets/52e68a18-9f31-414e-a8bd-5df45951b70b)
 
 ## 🧠 How it Works
